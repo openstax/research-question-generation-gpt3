@@ -1,0 +1,102 @@
+(Chpt 2.1)
+Context: Weaker bonds can also form between molecules. Two weak bonds that occur frequently are hydrogen bonds and van der Waals interactions.
+
+Target: hydrogen bond
+
+Question: Which type of bond exemplifies a weak chemical bond?
+
+Answer: hydrogen bond
+
+###	(1shot)
+
+(Chpt 3.2)
+Context: Galactose (part of lactose, or milk sugar) and fructose (found in sucrose, in fruit) are other common monosaccharides.
+
+Target: monosaccharide
+
+Question: What is an example of a monosaccharide?
+
+Answer: fructose
+
+###
+
+(Chpt 3.4)
+Context: Amino acids are the monomers that comprise proteins. Each amino acid has the same fundamental structure, which consists of a central carbon atom, or the alpha (α) carbon, bonded to an amino group (NH2), a carboxyl group (COOH), and to a hydrogen atom.
+
+Target: amino acids
+
+Question: What are the monomers that make up proteins called?
+
+Answer: amino acids
+
+### (3shot)
+
+
+
+(Chpt 2.3)
+Context: The carbon atom has unique properties that allow it to form covalent bonds to as many as four different atoms, making this versatile element ideal to serve as the basic structural component, or “backbone,” of the macromolecules.
+
+Target: four
+
+Question: What is the maximum number of atoms or molecules a single carbon atom can bond with?
+
+Answer: four
+
+###
+
+(Chpt 6.3)
+Context: The first law of thermodynamics deals with the total amount of energy in the universe. It states that this total amount of energy is constant.
+
+Target: first law of thermodynamics
+
+Question: What does the first law of thermodynamics state?
+
+Answer: The amount of energy in the universe is constant.
+
+### (5shot)
+
+(Chpt 5.4)
+Context: Phagocytosis (the condition of “cell eating”) is the process by which a cell takes in large particles, such as other cells or relatively large particles.
+
+Target: phagocytosis
+
+Question: Which transport mechanism can bring whole cells into a cell?
+
+Answer: phagocytosis
+
+###
+
+(Chpt 6.3)
+
+Context: It is important to remember that enzymes do not change the reaction's ∆G. In other words, they do not change whether a reaction is exergonic (spontaneous) or endergonic. This is because they do not change the reactants' or products' free energy. They only reduce the activation energy required to reach the transition state.
+Target: enzymes
+
+Question: What is the function of enzymes?
+
+Answer: to lower the activation energy of a reaction
+
+### (7shot)
+
+(Chpt 8.2)
+
+Context: Scientists can determine the amount of energy of a wave by measuring its wavelength (shorter wavelengths are more powerful than longer wavelengths)—the distance between consecutive crest points of a wave.
+
+Target: wavelength measurement
+
+Question: What can be calculated from a wavelength measurement of light?
+
+Answer: the amount of energy of a wave of light
+
+###
+
+(Chpt 16.7)
+
+Context: Proto-oncogenes are positive cell-cycle regulators. When mutated, proto-oncogenes can become oncogenes and cause cancer.
+
+Target: oncogenes
+
+Question: What are cancer-causing genes called?
+
+Answer: oncogenes
+
+### (9shot)

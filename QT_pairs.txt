@@ -1,0 +1,48 @@
+From Chapter 4.2:
+
+Context: All cells share four common components: 1) a plasma membrane, an outer covering that separates the cell’s interior from its surrounding environment; 2) cytoplasm, consisting of a jelly-like cytosol within the cell in which there are other cellular components; 3) DNA, the cell's genetic material; and 4) ribosomes, which synthesize proteins. However, prokaryotes differ from eukaryotic cells in several ways.
+
+Targets: shared common components(1) ; Cytoplasm(2); ribosomes(3)
+
+
+Context: A prokaryote is a simple, mostly single-celled (unicellular) organism that lacks a nucleus, or any other membrane-bound organelle. We will shortly come to see that this is significantly different in eukaryotes. Prokaryotic DNA is in the cell's central part: the nucleoid.
+
+Targets: prokaryote(4); nucleoid(5)
+
+
+Context: Most prokaryotes have a peptidoglycan cell wall and many have a polysaccharide capsule. The cell wall acts as an extra layer of protection, helps the cell maintain its shape, and prevents dehydration. The capsule enables the cell to attach to surfaces in its environment. Some prokaryotes have flagella, pili, or fimbriae. Flagella are used for locomotion. Pili exchange genetic material during conjugation, the process by which one bacterium transfers genetic material to another through direct contact. Bacteria use fimbriae to attach to a host cell.
+
+Target: cell wall(6); flagella(7); pili(8); prokaryotes(9)
+
+
+Context: At 0.1 to 5.0 μm in diameter, prokaryotic cells are significantly smaller than eukaryotic cells, which have diameters ranging from 10 to 100 μm (Figure 4.6). The prokaryotes' small size allows ions and organic molecules that enter them to quickly diffuse to other parts of the cell. Similarly, any wastes produced within a prokaryotic cell can quickly diffuse. This is not the case in eukaryotic cells, which have developed different structural adaptations to enhance intracellular transport.
+
+Target: size(10); smaller(11)
+
+Context: Most prokaryotes have a peptidoglycan cell wall and many have a polysaccharide capsule. The cell wall acts as an extra layer of protection, helps the cell maintain its shape, and prevents dehydration. The capsule enables the cell to attach to surfaces in its environment. Some prokaryotes have flagella, pili, or fimbriae. Flagella are used for locomotion. Pili exchange genetic material during conjugation, the process by which one bacterium transfers genetic material to another through direct contact. Bacteria use fimbriae to attach to a host cell.
+	Unlike prokaryotic cells, eukaryotic cells have: 1) a membrane-bound nucleus; 2) numerous membrane-bound organelles such as the endoplasmic reticulum, Golgi apparatus, chloroplasts, mitochondria, and others; and 3) several, rod-shaped chromosomes. Because a membrane surrounds eukaryotic cell’s nucleus, it has a “true nucleus.” The word “organelle” means “little organ,” and, as we already mentioned, organelles have specialized cellular functions, just as your body's organs have specialized functions.
+
+Target: Eukaryotic cells (22)
+
+From Chapter 10.2:
+
+Context: Throughout interphase, nuclear DNA remains in a semi-condensed chromatin configuration. In the S phase, DNA replication can proceed through the mechanisms that result in the formation of identical pairs of DNA molecules—sister chromatids—that are firmly attached to the centromeric region. The centrosome is also duplicated during the S phase. The two centrosomes of homologous chromosomes will give rise to the mitotic spindle, the apparatus that orchestrates the movement of chromosomes during mitosis. For example, roughly at the center of each animal cell, the centrosomes are associated with a pair of rod-like objects, the centrioles, which are positioned at right angles to each other. Centrioles help organize cell division. We should note, however, that centrioles are not present in the centrosomes of other eukaryotic organisms, such as plants and most fungi.
+
+Targets: S phase(12); mitotic spindle(13); centrosome(14)
+
+
+
+Context: The mitotic phase is a multistep process during which the duplicated chromosomes are aligned, separated, and move into two new, identical daughter cells. The first portion of the mitotic phase is called karyokinesis, or nuclear division. As we have just seen, the second portion of the mitotic phase (and often viewed as a process separate from and following mitosis) is called cytokinesis—the physical separation of the cytoplasmic components into the two daughter cells.
+
+Target: mitotic phase(15); cytokinesis(16)
+
+
+
+Context: Prophase (the “first phase”): the nuclear envelope starts to dissociate into small vesicles, and the membranous organelles (such as the Golgi complex [Golgi apparatus] and the endoplasmic reticulum), fragment and disperse toward the periphery of the cell. The nucleolus disappears (disperses) as well, and the centrosomes begin to move to opposite poles of the cell. Microtubules that will form the mitotic spindle extend between the centrosomes, pushing them farther apart as the microtubule fibers lengthen. The sister chromatids begin to coil more tightly with the aid of condensin proteins and now become visible under a light microscope.
+
+Target: Prophase(17); condensin proteins(18); Microtubules(19)
+
+
+Context: Cytokinesis, or “cell motion,” is sometimes viewed as the second main stage of the mitotic phase, during which cell division is completed via the physical separation of the cytoplasmic components into two daughter cells. However, as we have seen earlier, cytokinesis can also be viewed as a separate phase, which may or may not take place following mitosis. If cytokinesis does take place, cell division is not complete until the cell components have been apportioned and completely separated into the two daughter cells. Although the stages of mitosis are similar for most eukaryotes, the process of cytokinesis is quite different for eukaryotes that have cell walls, such as plant cells.
+
+Target: Cytokinesis(20); eukaryotes(21)

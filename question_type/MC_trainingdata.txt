@@ -1,0 +1,95 @@
+Context: Common disaccharides include lactose, maltose, and sucrose (Figure 3.8). Lactose is a disaccharide consisting of the monomers glucose and galactose. It is naturally in milk. Maltose, or malt sugar, is a disaccharide formed by a dehydration reaction between two glucose molecules. The most common disaccharide is sucrose, or table sugar, which is comprised of glucose and fructose monomers.
+
+Target:  Lactose
+
+Question: Which of these best describes the production of sucrose, maltose, and lactose?
+
+a) Glucose and fructose combine to form sucrose. Glucose and galactose combine to form lactose. Two glucose monomers combine to form maltose.
+
+b) Glucose and fructose combine to form sucrose. Glucose and galactose combine to form maltose. Two glucose combine to form lactose.
+
+c) Two glucose combine to form lactose. Glucose and galactose combine to form sucrose. Glucose and fructose combine to form maltose.
+
+d) Two galactose combine to form sucrose. Fructose and glucose combine to form lactose. Two glucose combine to form maltose.
+
+Answer: b) Glucose and fructose combine to form sucrose. Glucose and galactose combine to form lactose. Two glucose monomers combine to form maltose.
+
+(Chpt 3.2 Blooms 2)
+
+###
+
+Context: Cholesterol is the most common steroid. The liver synthesizes cholesterol and is the precursor to many steroid hormones such as testosterone and estradiol, which gonads and endocrine glands secrete. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help emulsifying fats and their subsequent absorption by cells. Although lay people often speak negatively about cholesterol, it is necessary for the body's proper functioning.
+
+Target: Cholesterol
+
+Question: What does the body use cholesterol for, in addition to its use in hormone production?
+
+a) mRNA transport
+
+b) production of bile salts
+
+c) water reabsorption in the kidney
+
+d) wax production
+
+Answer: b) production of bile salts
+
+(Chpt 3.3 Blooms 3)
+
+###
+
+Context: Atoms of each element contain a characteristic number of protons and electrons. The number of protons determines an element’s atomic number, which scientists use to distinguish one element from another. The number of neutrons is variable, resulting in isotopes, which are different forms of the same atom that vary only in the number of neutrons they possess. Together, the number of protons and neutrons determine an element’s mass number. Note that we disregard the small contribution of mass from electrons in calculating the mass number. We can use this approximation of mass to easily calculate how many neutrons an element has by simply subtracting the number of protons from the mass number.
+
+Target: neutrons
+
+Question: If xenon has an atomic number of  54  and a mass number of  108 , how many neutrons does it have?
+
+a) 54
+
+b) 108
+
+c) 70
+
+d) 162
+
+Answer: a) 54
+
+###
+
+Context: While scientists usually carefully plan research efforts in both basic science and applied science, note that some discoveries are made by serendipity, that is, by means of a fortunate accident or a lucky surprise. Scottish biologist Alexander Fleming discovered penicillin when he accidentally left a petri dish of Staphylococcus bacteria open. An unwanted mold grew on the dish, killing the bacteria. Fleming's curiosity to investigate the reason behind the bacterial death, followed by his experiments, led to the discovery of the antibiotic penicillin, which is produced by the fungus Penicillium. Even in the highly organized world of science, luck—when combined with an observant, curious mind—can lead to unexpected breakthroughs.
+
+Target: serendipity
+
+Question: Why was the discovery of penicillin considered an act of serendipity?
+
+a) Penicillin was discovered by accident while studying the biology of mold.
+
+b) Penicillin was found to exist in certain bacterial species that were being cultured.
+
+c) It was created in the laboratory when scientists were manipulating the genome of a fungus.
+
+d) It was part of an experiment investigating mutations in bacterial DNA and RNA.
+
+Answer: a) Penicillin was discovered by accident while studying the biology of mold.
+
+(Chpt 1.1 Blooms 4)
+
+###
+
+Context: This is an example of a balanced chemical equation, wherein each element's number of atoms is the same on each side of the equation. According to the law of conservation of matter, the number of atoms before and after a chemical reaction should be equal, such that no atoms are, under normal circumstances, created or destroyed.
+
+Target: balanced chemical equation
+
+Question: Why is it important that chemical equations always be balanced?
+
+a) Additional atoms are prevented from entering the reaction, which could ultimately impact the products.
+
+b) It keeps the number of electrons constant in the reaction so there will be no unnecessary bonding between the atoms.
+
+c) Scientists are able to get a better idea of the reactants and products that are going into the reaction if they are the same.
+
+d) Matter can neither be created, nor destroyed, so there has to be the same amount coming out of a reaction that went into it.
+
+Answer: d) Matter can neither be created, nor destroyed, so there has to be the same amount coming out of a reaction that went into it.
+
+(Chpt 2.1 Blooms 6)

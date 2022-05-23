@@ -1,0 +1,251 @@
+(Small)
+
+Context: Comparing RNA sequences provided Carl Woese with a sensitive device that revealed the extensive variability of prokaryotes, and which justified separating the prokaryotes into two domains: bacteria and archaea.
+
+Target: RNA
+
+Question: What scientific evidence was used by Carl Woese to determine there should be a separate domain for Archaea?
+
+Answer: a sequence of RNA
+
+(Chpt 1.2 Blooms 3)
+
+###
+
+Context: Carbohydrates contain soluble and insoluble elements. The insoluble part, fiber, is mostly cellulose. Fiber has many uses. It promotes regular bowel movement by adding bulk, and it regulates the blood glucose consumption rate.
+
+Target: Fiber
+
+Question: Fiber is not really a nutrient, because it passes through our body undigested. Why can't fiber be digested and why is it important to our diet?
+
+Answer: The enzymes required to digest cellulose are not produced in the human body; undigested fiber adds bulk to the food easing bowel movements.
+
+(Chpt 3.2 Blooms 4)
+
+###
+
+Context: Plants are able to synthesize glucose, and they store the excess glucose, beyond their immediate energy needs, as starch in different plant parts, including roots and seeds. The starch in the seeds provides food for the embryo as it germinates and can also act as a food source for humans and animals.
+
+Target: starch
+
+Question: At the end of a very productive season, a maple tree has an excess of sugar it has produced from photosynthesis. What is likely to happen to this carbohydrate?
+
+Answer: The sugar will be converted into starch to be stored until the tree needs it.
+
+###
+
+Context: There is no complete agreement when it comes to defining what the natural sciences include, however. For some experts, the natural sciences are astronomy, biology, chemistry, earth science, and physics.
+
+Target: natural sciences
+
+Question: Both astronomy and astrology study the stars. Which one is considered a natural science? Explain your reasoning.
+
+Answer:Astronomy is a natural science as it deals with observations and prediction of events in the sky, which is based on the laws of physics.
+
+(Chpt 1.1 Blooms 4)
+
+###
+
+Context: This is an example of a balanced chemical equation, wherein each element's number of atoms is the same on each side of the equation. According to the law of conservation of matter, the number of atoms before and after a chemical reaction should be equal, such that no atoms are, under normal circumstances, created or destroyed.
+
+Target: balanced chemical equation
+
+Question: Why is it important that chemical equations always be balanced?
+
+Answer: Matter can neither be created, nor destroyed, so there has to be the same amount coming out of a reaction that went into it.
+
+(Chpt 2.1 Blooms 6)
+
+###
+
+Context: Most macromolecules are made from single subunits, or building blocks, called monomers. The monomers combine with each other using covalent bonds to form larger molecules known as polymers. In doing so, monomers release water molecules as byproducts. This type of reaction is dehydration synthesis, which means “to put together while losing water.”
+
+Target: Dehydration
+
+Question: Dehydration is a word usually used to mean the removal of water. How does this apply to macromolecules?
+
+Answer: Each monomer releases one water molecule when forming a polymer, thereby causing dehydration.
+
+(Chpt 3.1)
+
+###
+
+Context: When a fatty acid has no double bonds, it is a saturated fatty acid because it is not possible to add more hydrogen to the chain's carbon atoms.
+
+Target: unsaturated
+
+Question: The difference between saturated and unsaturated fats lies in what?
+
+Answer: the number of hydrogen atoms on the triglycerides
+
+(Chpt 3.3 Blooms 2)
+
+(Medium)
+
+Context: Isotopes are different forms of an element that have the same number of protons but a different number of neutrons. Some elements—such as carbon, potassium, and uranium—have naturally occurring isotopes. Carbon-12 contains six protons, six neutrons, and six electrons; therefore, it has a mass number of 12 (six protons and six neutrons). Carbon-14 contains six protons, eight neutrons, and six electrons; its atomic mass is 14 (six protons and eight neutrons). These two alternate forms of carbon are isotopes.
+
+Target: neutrons
+
+Question: How many neutrons do carbon-12 and carbon-13 have, respectively?
+
+Answer: Carbon-12 contains  6  neutrons while carbon-13 contains  7  neutrons.
+
+(Chpt 2.1 Blooms 2)
+
+###
+
+Context: Ionic and covalent bonds between elements require energy to break. Ionic bonds are not as strong as covalent, which determines their behavior in biological systems. However, not all bonds are ionic or covalent bonds. Weaker bonds can also form between molecules. Two weak bonds that occur frequently are hydrogen bonds and van der Waals interactions. Without these two types of bonds, life as we know it would not exist. Hydrogen bonds provide many of the critical, life-sustaining properties of water and also stabilize the structures of proteins and DNA, the building block of cells.
+
+Target: Hydrogen bonds
+
+Question: Why are hydrogen bonds and van der Waals interactions necessary for cells?
+
+Answer: Hydrogen bonds and van der Waals interactions form weak associations between and/or within molecules, providing the necessary shape and structure of DNA and proteins to function in the body.
+
+###
+
+Context: Atoms of each element contain a characteristic number of protons and electrons. The number of protons determines an element’s atomic number, which scientists use to distinguish one element from another. The number of neutrons is variable, resulting in isotopes, which are different forms of the same atom that vary only in the number of neutrons they possess. Together, the number of protons and neutrons determine an element’s mass number=. Note that we disregard the small contribution of mass from electrons in calculating the mass number. We can use this approximation of mass to easily calculate how many neutrons an element has by simply subtracting the number of protons from the mass number.
+
+Target: neutrons
+
+Question: If xenon has an atomic number of  54  and a mass number of  108 , how many neutrons does it have?
+
+Answer: 54, since the mass number minus the atomic number is 54.
+
+###
+
+Context: One of water’s important properties is that it is composed of polar molecules: the hydrogen and oxygen within water molecules (H2O) form polar covalent bonds. While there is no net charge to a water molecule, water's polarity creates a slightly positive charge on hydrogen and a slightly negative charge on oxygen, contributing to water’s properties of attraction. Water generates charges because oxygen is more electronegative than hydrogen, making it more likely that a shared electron would be near the oxygen nucleus than the hydrogen nucleus, thus generating the partial negative charge near the oxygen.
+
+Target: polar covalent bonds
+
+Question: Explain why the bonds within a water molecule are described as polar covalent bonds.
+
+Answer: Oxygen is more electronegative than hydrogen, generating a partial negative charge near the oxygen atoms.
+
+(Chpt 2.2 Blooms 2)
+
+###
+
+Context: Common disaccharides include lactose, maltose, and sucrose. Lactose is a disaccharide consisting of the monomers glucose and galactose. It is naturally in milk. Maltose, or malt sugar, is a disaccharide formed by a dehydration reaction between two glucose molecules. The most common disaccharide is sucrose, or table sugar, which is comprised of glucose and fructose monomers.
+
+Target:  Lactose
+
+Question: Which of these best describes the production of sucrose, maltose, and lactose?
+
+Answer: Glucose and fructose combine to form sucrose. Glucose and galactose combine to form lactose. Two glucose monomers combine to form maltose.
+
+(Chpt 3.2 Blooms 2)
+
+###
+
+Context: Polymers break down into monomers during hydrolysis. A chemical reaction occurs when inserting a water molecule across the bond. Breaking a covalent bond with this water molecule in the compound achieves this. During these reactions, the polymer breaks into two components: one part gains a hydrogen atom (H+) and the other gains a hydroxyl molecule (OH–) from a split water molecule.
+
+Target: hydrolysis
+
+Question: The word hydrolysis is defined as the lysis of water. How does this apply to polymers?
+
+Answer: Polymers break by separating water into hydrogen and hydroxyl group that are added to the monomers.
+
+(Chpt 3.1 Blooms 3)
+
+###
+
+Context: Cholesterol is the most common steroid. The liver synthesizes cholesterol and is the precursor to many steroid hormones such as testosterone and estradiol, which gonads and endocrine glands secrete. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help emulsifying fats and their subsequent absorption by cells. Although lay people often speak negatively about cholesterol, it is necessary for the body's proper functioning.
+
+Target: Cholesterol
+
+Question: What does the body use cholesterol for, in addition to its use in hormone production?
+
+Answer: production of bile salts
+
+(Chpt 3.3 Blooms 3)
+
+(Large)
+
+Context: Therefore, 1 mole of water is equal to 6.02 × 1023 water molecules. We calculate the pH as the negative of the base 10 logarithm of this concentration. The log10 of 1 × 10-7 is -7.0, and the negative of this number (indicated by the “p” of “pH”) yields a pH of 7.0, which is also a neutral pH. The pH inside of human cells and blood are examples of two body areas where near-neutral pH is maintained.
+The stronger the acid, the more readily it donates H+. For example, hydrochloric acid (HCl) completely dissociates into hydrogen and chloride ions and is highly acidic; whereas the acids in tomato juice or vinegar do not completely dissociate and are weak acids. Conversely, strong bases are those substances that readily donate OH– or take up hydrogen ions.
+
+Target: pH
+
+Question: One of the risks for people with diabetes is diabetic ketoacidosis, a build-up of acid in the blood stream. Explain why this is dangerous to humans.
+
+Answer: Diabetic ketoacidosis decreases normal pH (7.35-7.45) to a lower value.
+
+(Chpt 2.2 Blooms 3)
+
+###
+
+Context: Water’s high heat capacity is a property that hydrogen bonding among water molecules causes. Water has the highest specific heat capacity of any liquids. We define specific heat as the amount of heat one gram of a substance must absorb or lose to change its temperature by one degree Celsius. For water, this amount is one calorie. It therefore takes water a long time to heat and a long time to cool. Due to its high heat capacity, warm blooded animals use water to more evenly disperse heat in their bodies: it acts in a similar manner to a car’s cooling system, transporting heat from warm places to cool places, causing the body to maintain a more even temperature.
+
+Target: specific heat capacity
+
+Question: Why can water be a good insulator within the body of endothermic (warm-blooded) animals?
+
+Answer: specific heat capacity
+
+(Chpt 2.2 Blooms 3)
+
+###
+
+Context: The macromolecules are a subset of organic molecules (any carbon-containing liquid, solid, or gas) that are especially important for life. The fundamental component for all of these macromolecules is carbon. The carbon atom has unique properties that allow it to form covalent bonds to as many as four different atoms, making this versatile element ideal to serve as the basic structural component, or “backbone,” of the macromolecules.
+	As the backbone of the large molecules of living things, hydrocarbons may exist as linear carbon chains, carbon rings, or combinations of both. Furthermore, individual carbon-to-carbon bonds may be single, double, or triple covalent bonds, and each type of bond affects the molecule's geometry in a specific way. This three-dimensional shape or conformation of the large molecules of life (macromolecules) is critical to how they function.
+
+Target: carbon
+
+Question: What property of carbon makes it essential for organic life?
+
+Answer: Carbon can form up to four covalent bonds, allowing it to form carbon chains.
+
+(Chpt 2.3 Blooms 3)
+
+###
+
+Context: Plants store sugars in the form of starch. In plants, an amylose and amylopectin mixture (both glucose polymers) comprise these sugars. Plants are able to synthesize glucose, and they store the excess glucose, beyond their immediate energy needs, as starch in different plant parts, including roots and seeds. The starch in the seeds provides food for the embryo as it germinates and can also act as a food source for humans and animals. Enzymes break down the starch that humans consume. 	
+Glycogen is the storage form of glucose in humans and other vertebrates and is comprised of monomers of glucose. Glycogen is the animal equivalent of starch and is a highly branched molecule usually stored in liver and muscle cells. Whenever blood glucose levels decrease, glycogen breaks down to release glucose in a process scientists call glycogenolysis.
+
+Target: Glycogen
+
+Question: Describe some of the similarities and differences between glycogen and starch?
+
+Answer: Starch is less branched than glycogen and is found in plants.
+
+(Chpt 3.2 Blooms 2)
+
+###
+
+Context: Glucose starch comprises monomers that are joined by α 1-4 or α 1-6 glycosidic bonds. The numbers 1-4 and 1-6 refer to the carbon number of the two residues that have joined to form the bond. Unbranched glucose monomer chains (only α 1-4 linkages) form the starch; whereas, amylopectin is a branched polysaccharide (α 1-6 linkages at the branch points).
+	Cellulose is the most abundant natural biopolymer. Cellulose mostly comprises a plant's cell wall. This provides the cell structural support. Glucose monomers comprise cellulose that β 1-4 glycosidic bonds link. The chemical structure of cellulose is shown. Cellulose consists of unbranched chains of glucose subunits. In cellulose, glucose monomers are linked in unbranched chains by β 1-4 glycosidic linkages. Every other glucose monomer in cellulose is flipped over, and the monomers are packed tightly as extended long chains. This gives cellulose its rigidity and high tensile strength—which is so important to plant cells.
+
+Target: starch and cellulose
+
+Question: What is structurally different between starch and cellulose that gives them different physical properties?
+
+Answer: Cellulose is formed by  β -1,4 glycosidic linkages and crosslinks, making it rigid. Starch has  α -1.4 and  α -1.6 glycosidic linkages without the tight crosslinks of cellulose.
+
+(Chpt 3.2 Blooms 2)
+
+###
+
+Context: The food industry artificially hydrogenates oils to make them semi-solid and of a consistency desirable for many processed food products. Simply speaking, hydrogen gas is bubbled through oils to solidify them. During this hydrogenation process, double bonds of the cis- conformation in the hydrocarbon chain may convert to double bonds in the trans- conformation.
+Margarine, some types of peanut butter, and shortening are examples of artificially hydrogenated trans fats. Recent studies have shown that an increase in trans fats in the human diet may lead to higher levels of low-density lipoproteins (LDL), or “bad” cholesterol, which in turn may lead to plaque deposition in the arteries, resulting in heart disease.
+
+Target: hydrogenated
+
+Question: A recent study has shown that people are eating more margarine, peanut butter, and products that contain a lot of shortening. What is the projected outcome of this change in eating habits?
+
+Answer: People are more likely to develop heart disease because these lipids contain artificially hydrogenated trans fats.
+
+(Chpt 3.3 Blooms 6)
+
+###
+
+Context: The chemical nature of the side chain determines the amino acid's nature (that is, whether it is acidic, basic, polar, or nonpolar). For example, the amino acid glycine has a hydrogen atom as the R group. Amino acids such as valine, methionine, and alanine are nonpolar or hydrophobic in nature, while amino acids such as serine, threonine, and cysteine are polar and have hydrophilic side chains.
+	When protein folding takes place, the nonpolar amino acids' hydrophobic R groups lie in the protein's interior; whereas, the hydrophilic R groups lie on the outside. Scientists also call the former interaction types hydrophobic interactions. Interaction between cysteine side chains forms disulfide linkages in the presence of oxygen, the only covalent bond that forms during protein folding.
+
+Target: interior
+
+Question: Which categories of amino acid would you expect to find on the surface of a soluble protein, and which would you expect to find in the interior?
+
+Answer: Polar and charged amino acids will be found on the surface. Non-polar amino acids will be found in the interior.
+
+(Chpt 3.4 Blooms 3)

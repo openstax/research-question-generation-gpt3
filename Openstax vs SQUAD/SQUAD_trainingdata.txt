@@ -1,0 +1,23 @@
+Context: Oxygen is used in cellular respiration and released by photosynthesis, which uses the energy of sunlight to produce oxygen from water.
+
+Answer: photosynthesis
+
+Question: Oxygen is released in cellular respiration by?
+
+### (oneshot)
+
+Context: In the late 17th century, Robert Boyle proved that air is necessary for combustion.
+
+Answer: Robert Boyle
+
+Question: Who proved that air is necessary for combustion?
+
+### (twoshot)
+
+Context: One of the first known experiments on the relationship between combustion and air was conducted by the 2nd century BCE Greek writer on mechanics, Philo of Byzantium.
+
+Answer: 2nd century BCE
+
+Question: In what year was the first known experiments on combustion and air conducted?
+
+### (fewshot)

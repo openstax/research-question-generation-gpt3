@@ -1,0 +1,32 @@
+(Chpt 2.1)
+Context: Weaker bonds can also form between molecules. Two weak bonds that occur frequently are hydrogen bonds and van der Waals interactions.
+
+Target: hydrogen bond
+
+Question: Which type of bond exemplifies a weak chemical bond?
+
+Answer: hydrogen bond
+
+###	(1shot)
+
+(Chpt 3.2)
+Context: Galactose (part of lactose, or milk sugar) and fructose (found in sucrose, in fruit) are other common monosaccharides.
+
+Target: monosaccharide
+
+Question: What is an example of a monosaccharide?
+
+Answer: fructose
+
+###
+
+(Chpt 3.4)
+Context: Amino acids are the monomers that comprise proteins. Each amino acid has the same fundamental structure, which consists of a central carbon atom, or the alpha (α) carbon, bonded to an amino group (NH2), a carboxyl group (COOH), and to a hydrogen atom.
+
+Target: amino acids
+
+Question: What are the monomers that make up proteins called?
+
+Answer: amino acids
+
+### (3shot)

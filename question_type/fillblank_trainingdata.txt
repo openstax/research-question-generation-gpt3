@@ -1,0 +1,61 @@
+Context: Common disaccharides include lactose, maltose, and sucrose (Figure 3.8). Lactose is a disaccharide consisting of the monomers glucose and galactose. It is naturally in milk. Maltose, or malt sugar, is a disaccharide formed by a dehydration reaction between two glucose molecules. The most common disaccharide is sucrose, or table sugar, which is comprised of glucose and fructose monomers.
+
+Target:  Lactose
+
+Question: Glucose and fructose combine to form sucrose. Glucose and galactose combine to form maltose. Two glucose combine to form ______.
+
+Answer: maltose
+
+(Chpt 3.2 Blooms 2)
+
+###
+
+Context: Cholesterol is the most common steroid. The liver synthesizes cholesterol and is the precursor to many steroid hormones such as testosterone and estradiol, which gonads and endocrine glands secrete. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help emulsifying fats and their subsequent absorption by cells. Although lay people often speak negatively about cholesterol, it is necessary for the body's proper functioning.
+
+Target: Cholesterol
+
+Question: The body uses cholesterol for ________, in addition to its use in hormone production.
+
+Answer: the production of bile salts
+
+(Chpt 3.3 Blooms 3)
+
+###
+
+Context: Atoms of each element contain a characteristic number of protons and electrons. The number of protons determines an element’s atomic number, which scientists use to distinguish one element from another. The number of neutrons is variable, resulting in isotopes, which are different forms of the same atom that vary only in the number of neutrons they possess. Together, the number of protons and neutrons determine an element’s mass number. Note that we disregard the small contribution of mass from electrons in calculating the mass number. We can use this approximation of mass to easily calculate how many neutrons an element has by simply subtracting the number of protons from the mass number.
+
+Target: neutrons
+
+Question: If xenon has an atomic number of  54  and a mass number of  108 , then it has _______ neutrons.
+
+Answer: 54
+
+###
+
+Context: While scientists usually carefully plan research efforts in both basic science and applied science, note that some discoveries are made by serendipity, that is, by means of a fortunate accident or a lucky surprise. Scottish biologist Alexander Fleming discovered penicillin when he accidentally left a petri dish of Staphylococcus bacteria open. An unwanted mold grew on the dish, killing the bacteria. Fleming's curiosity to investigate the reason behind the bacterial death, followed by his experiments, led to the discovery of the antibiotic penicillin, which is produced by the fungus Penicillium. Even in the highly organized world of science, luck—when combined with an observant, curious mind—can lead to unexpected breakthroughs.
+
+Target: serendipity
+
+Question: Since Penicillin was discovered by accident while studying the biology of mold, the discovery of penicillin was considered an act of ________
+
+Answer: serendipity
+
+(Chpt 1.1 Blooms 4)
+
+###
+
+Context: This is an example of a balanced chemical equation, wherein each element's number of atoms is the same on each side of the equation. According to the law of conservation of matter, the number of atoms before and after a chemical reaction should be equal, such that no atoms are, under normal circumstances, created or destroyed.
+
+Target: balanced chemical equation
+
+Question: Because Matter can neither be created, nor destroyed, it is important that chemical equations always be _______.
+
+Answer: balanced
+
+(Chpt 2.1 Blooms 6)
+
+###
+
+Context: Most prokaryotes have a peptidoglycan cell wall and many have a polysaccharide capsule. The cell wall acts as an extra layer of protection, helps the cell maintain its shape, and prevents dehydration. The capsule enables the cell to attach to surfaces in its environment. Some prokaryotes have flagella, pili, or fimbriae. Flagella are used for locomotion. Pili exchange genetic material during conjugation, the process by which one bacterium transfers genetic material to another through direct contact. Bacteria use fimbriae to attach to a host cell.
+
+Target: prokaryotes
