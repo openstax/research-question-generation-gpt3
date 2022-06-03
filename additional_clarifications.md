@@ -33,11 +33,11 @@ Equation 2 further conditions the generation on a "prompt", a set of examples th
 | Factor under examination |                   |             | Fixed factors |                |                 |
 |--------------------------|:-----------------:|:-----------:|:-------------:|:--------------:|:---------------:|
 |                          | Example structure | Data source | Num. examples | Context length | Question length |
-| Example structure        |         -         |             |               |                |                 |
-| Data source              |                   |      -      |               |                |                 |
-| Num. examples            |                   |             |       -       |                |                 |
-| Context length           |                   |             |               |        -       |                 |
-| Question length          |                   |             |               |                |        -        |
+| Example structure        |         -         | Openstax    | 0,1,2,3       | Small          | Small           |
+| Data source              | CTQA              |      -      | 0,1,2,3       | Small          | Small           |
+| Num. examples            | CTQA              | Openstax    |       -       | Small          | Small           |
+| Context length           | CTQA              | Openstax    | 3,5,7         |        -       | Small           |
+| Question length          | CTQA              | Openstax    | 3,5,7         | Medium         |        -        |
 
 7. **In Section 2.1, how a target was determined.**
 
